@@ -49,7 +49,7 @@
 				<li class="page-scroll"><a href="#about">Jerry</a></li>
 				<li class="logo page-scroll"><a title="hexa" href="index.html"><img src="images/logo.png" alt="" class="responsive"/></a></li>
 			    <li class="page-scroll"><a href="blog.html">blog</a></li>
-				<li class="page-scroll"><a href="#contact">Resume</a></li>
+				<li class="page-scroll"><a href="#contact">Photo</a></li>
 			</ul>
 			<a href="#" id="pull"><img src="images/nav-icon.png" title="menu" /></a>
 		</nav>
@@ -97,15 +97,9 @@
 			<img src="images/user.png" alt="" class="responsive"/>
 		</div>
 		<div class="col-md-9 about_text">
-			<h3>Jerry Hao</h3>
-			<h4>UW-Milwaukee Computer Science</h4>
-			<p>Keep on going never give up.勇往直前， 决不放弃！</p>
-　　			<p>Whatever is worth doing is worth doing well.任何值得做的事就值得把它做好！</p>
-			<p>Believe in yourself.相信你自己！</p>
-			<p>I can because i think i can.我行，因为我相信我行！</p>
-			<p>Action speak louder than words.行动胜于言语！</p>
-			<p>Never say die.永不气馁！</p>
-			<p>Never put off what you can do today until tomorrow.今日事今日毕！</p>
+			<h3>smith anderson</h3>
+			<h4>illustrator & character designer</h4>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
 			<div class="soc_icons navbar-right">
 				<ul class="list-unstyled text-center">
 					<li><a href="#"><i class="fa fa-facebook"></i></a></li>
